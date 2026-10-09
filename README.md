@@ -96,7 +96,4 @@ Todo el registro de latencia, costo de tokens y gráficas de resultados quedó g
 ├── .env.example        # Plantilla de variables de entorno
 ├── .gitignore          # Filtro para ignorar archivos basura o sensibles
 └── README.md           # Este documento
-``` resultados
-├── .env.example        # Plantilla de variables de entorno
-├── .gitignore          # Filtro para ignorar archivos basura o sensibles
-└── README.md           # Este documento
+``` 
