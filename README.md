@@ -44,8 +44,11 @@ Para evitar que el modelo invente datos (alucinaciones), implementamos un **pipe
 ## 🚀 Cómo ejecutar nuestro proyecto
 
 ### 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-cd TU_REPOSITORIO
+
+```bash
+git clone https://github.com/imQuasar/asistente-hardware-rag-sp-digital.git
+cd asistente-hardware-rag-sp-digital
+```
 
 ### 2. Crear entorno virtual (Recomendado)
 # En Windows:
