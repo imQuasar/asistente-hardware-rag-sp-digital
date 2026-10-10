@@ -35,6 +35,13 @@ Para evitar que el modelo invente datos (alucinaciones), implementamos un pipeli
 
 ## 🚀 Cómo ejecutar nuestro proyecto
 
+### 📋 Requisitos Previos
+
+Antes de comenzar, asegúrate de tener instalado lo siguiente en tu sistema:
+- **Python 3.10 o superior:** [Descargar Python](https://www.python.org/downloads/)
+- **Jupyter Notebook / Extensión Jupyter en VS Code:** Para poder abrir y ejecutar el cuaderno `proyecto.ipynb`.
+- **Git:** Para clonar el repositorio.
+
 ### 1. Clonar el repositorio
 ```bash
 git clone https://github.com/imQuasar/asistente-hardware-rag-sp-digital.git
