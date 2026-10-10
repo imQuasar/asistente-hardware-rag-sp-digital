@@ -57,10 +57,18 @@ source venv/bin/activate
 
 ### 3. Instalar librerías
 ```bash
-pip install openai python-dotenv faiss-cpu numpy langsmith
+pip install mistralai openai python-dotenv faiss-cpu numpy pandas langsmith ipykernel
 ```
 
 ### 4. Configurar las API Keys (.env)
+
+Para ejecutar el proyecto necesitas obtener las claves de acceso en las plataformas oficiales de cada servicio:
+
+1. **Mistral AI API Key:**
+   - Crear cuenta u obtener la API Key en la consola oficial: [Mistral AI Console](https://console.mistral.ai/)
+2. **LangSmith API Key:**
+   - Crear cuenta u obtener la API Key en el panel de configuración: [LangSmith Settings](https://smith.langchain.com/settings)
+
 Dejamos un archivo `.env.example` de guía. Debes crear tu propio archivo `.env` en la misma carpeta con este formato:
 
 ```bash
